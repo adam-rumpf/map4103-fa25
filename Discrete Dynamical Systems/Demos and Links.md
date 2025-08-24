@@ -6,6 +6,10 @@
 * [Digoxin Model Change](https://www.desmos.com/calculator/mwlnlvx1wt)
 * [Yeast Model Change Extended](https://www.desmos.com/calculator/vuybncs7sg)
 
+## Difference Equation Solutions
+
+* [Linear](https://www.desmos.com/calculator/ur4htppm41)
+
 ## Cobwebbing
 
 * [Linear](https://www.desmos.com/calculator/n4ygt49ohi)
