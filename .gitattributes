@@ -1,5 +1,1 @@
-# Mark Notebook files and spreadsheets as binary
-*.nb binary
-*.ods binary
 *.xlsx binary
-*.xls binary
