@@ -9,6 +9,7 @@
 ## Difference Equation Solutions
 
 * [Linear](https://www.desmos.com/calculator/ur4htppm41)
+* [Logistic](https://www.desmos.com/calculator/c37blzkkkg)
 
 ## Cobwebbing
 
