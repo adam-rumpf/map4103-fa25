@@ -9,4 +9,5 @@
 
 * [Exponential Growth Model](https://www.desmos.com/calculator/482b1f1414)
 * [Logistic Growth Model](https://www.desmos.com/calculator/kevhpndmcz)
+* [SIS Infectious Disease Model](https://www.desmos.com/calculator/soy2grfwrv)
 * [Discrete versus Continuous Logistic Model](https://www.desmos.com/calculator/xjdrcnud8u)
