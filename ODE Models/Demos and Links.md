@@ -11,3 +11,7 @@
 * [Logistic Growth Model](https://www.desmos.com/calculator/kevhpndmcz)
 * [SIS Infectious Disease Model](https://www.desmos.com/calculator/soy2grfwrv)
 * [Discrete versus Continuous Logistic Model](https://www.desmos.com/calculator/xjdrcnud8u)
+
+# Online Slope Field Generator
+
+* [Slope and Direction Fields](https://homepages.bluffton.edu/~nesterd/apps/slopefields.html)
