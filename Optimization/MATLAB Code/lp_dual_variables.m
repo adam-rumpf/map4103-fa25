@@ -26,18 +26,3 @@ disp(fval)
 % Display inequality constraint dual variables
 disp("Inequality constraint dual variables:")
 disp(lambda.ineqlin)
-
-% Re-solve the LP with a larger land budget
-[xnew, fvalnew] = linprog(c, A, b+[1; 0; 0], [], [], [0; 0]);
-disp("Objective increase for 1 additional land unit:")
-disp(fvalnew - fval)
-
-% Re-solve the LP with a larger fertilizer budget
-[xnew, fvalnew] = linprog(c, A, b+[0; 1; 0], [], [], [0; 0]);
-disp("Objective increase for 1 additional fertilizer unit:")
-disp(fvalnew - fval)
-
-% Re-solve the LP with a larger water budget
-[xnew, fvalnew] = linprog(c, A, b+[0; 0; 1], [], [], [0; 0]);
-disp("Objective increase for 1 additional water unit:")
-disp(fvalnew - fval)
